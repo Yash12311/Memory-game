@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+img {
+  height: 100px;
+  width: 100px;
+}
+#abc {
+  font-size: 250px;
+  justify-content: center;
+  align-items: center;
+  color: red;
+  background-color: yellow;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 50%;
+}
+body {
+  background-color: aqua;
+}
